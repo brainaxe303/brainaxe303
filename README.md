@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me, mail@madhav0433.be20@chitkara.edu.in
+- 📫 How to reach me, mail@madhavmanuja8886@gmail.com
 
 <!---
 brainaxe303/brainaxe303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
